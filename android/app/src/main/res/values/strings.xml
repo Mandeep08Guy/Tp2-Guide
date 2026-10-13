@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Tp2 Guide</string>
+    <string name="title_activity_main">Tp2 Guide</string>
+    <string name="package_name">com.tp2solutions.app</string>
+    <string name="custom_url_scheme">com.tp2solutions.app</string>
+</resources>
